@@ -1,0 +1,7 @@
+.gpt3__cta {
+  border: 1pz solid white;
+  color: wheat;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
