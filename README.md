@@ -6,7 +6,7 @@
 
 [![Visit](https://img.shields.io/badge/Visit-Demo-blue.svg)](https://gpt3-blog.vercel.app/)
 
-This project is a React application that implements various components and features using React and Vanilla CSS. The purpose of the application is to showcase the usage of these technologies and demonstrate the my learnings while working on it.
+This project is a React application that implements various components and features using React and Vanilla CSS. The purpose of the application is to showcase the usage of these technologies and demonstrate my learnings while working on it.
 
 ## Layout web
 
